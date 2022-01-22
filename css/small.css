@@ -1,0 +1,29 @@
+/**************
+custom properties
+**************/
+:root {
+    /* Primary */
+    --clr-pink: 322 100% 66%;
+    --clr-light-pink: 321 100% 78%;
+    --clr-light-red: 0 100% 63%;
+
+    /* Neutral */
+    --clr-dark-cyan: 192 100% 9%;
+    --clr-pale-blue: 207 100% 98%;
+
+    /* font weight */
+
+    --fs-700: 1.5rem;
+    --fs-600: 1.375rem;
+    --fs-400: 1.125rem;
+
+    /* font family */
+
+    --ff-poppins: "Poppins", sans-serif;
+    --ff-opensans: "Open Sans",sans-serif;
+
+
+}
+
+
+.
